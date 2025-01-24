@@ -5,7 +5,7 @@ public class SampleTest {
 		// TODO Auto-generated method stub
 
 		System.out.println("This is sample GitHub Project ");
-		System.out.println("This is sample GitHub Project ");
+		
 	}
 
 }
